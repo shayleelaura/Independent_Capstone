@@ -1,0 +1,72 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Placement Status by State, 2011"
+
+"State of Offense","Total","Committed","Detained","Diversion"
+"United States","61,423","41,934","19,014","464",
+"Alabama","1,026","717","255","54",
+"Alaska","222","123","99","0",
+"Arizona","936","579","354","† 3",
+"Arkansas","711","507","198","† 6",
+"California","9,810","5,691","4,065","51",
+"Colorado","1,254","879","375","0",
+"Connecticut","252","144","105","0",
+"Delaware","180","99","81","0",
+"District of Columbia","258","123","135","0",
+"Florida","3,744","2,883","753","† 108",
+"Georgia","1,788","909","876","3",
+"Hawaii","99","69","27","3",
+"Idaho","399","267","132","3",
+"Illinois","2,106","† 1,419","684","3",
+"Indiana","1,878","1,365","† 513","3",
+"Iowa","729","552","150","27",
+"Kansas","813","501","309","0",
+"Kentucky","747","501","240","6",
+"Louisiana","957","606","345","6",
+"Maine","165","138","24","3",
+"Maryland","939","471","465","0",
+"Massachusetts","543","363","180","0",
+"Michigan","2,085","1,470","603","12",
+"Minnesota","828","615","180","30",
+"Mississippi","258","138","† 120","0",
+"Missouri","1,122","867","252","3",
+"Montana","168","114","48","3",
+"Nebraska","669","486","183","0",
+"Nevada","720","498","219","† 3",
+"New Hampshire","90","87","3","0",
+"New Jersey","1,005","615","390","0",
+"New Mexico","522","360","162","0",
+"New York","2,139","1,677","456","9",
+"North Carolina","567","405","159","† 3",
+"North Dakota","156","141","15","0",
+"Ohio","2,490","1,554","930","6",
+"Oklahoma","576","318","237","21",
+"Oregon","1,098","936","156","0",
+"Pennsylvania","3,075","2,505","† 567","† 3",
+"Rhode Island","186","78","108","0",
+"South Carolina","726","426","300","0",
+"South Dakota","429","336","87","9",
+"Tennessee","783","528","252","6",
+"Texas","4,671","3,069","1,560","45",
+"Utah","732","552","180","0",
+"Vermont","36","24","12","0",
+"Virginia","1,686","1,128","555","0",
+"Washington","1,062","786","273","† 3",
+"West Virginia","489","327","162","0",
+"Wisconsin","915","657","258","3",
+"Wyoming","249","228","† 18","3",
+"Not Reported","2,324","2,097","209","18",
+
+† Interpret data with caution. In these states 30% or more of the information for placement status was imputed. Visit the EZACJRP methods section for more information about imputation.
+
+"Note: The information in this table is based on the state where the offense was committed. However, the state of offense is not always reported. Youth for whom state of offense was unknown are included in U.S. totals. These instances are not evenly distributed across states. As such, users should exercise caution when examining state-level trends or comparing states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information."
+
+"Note: U.S. total excludes youth in tribal facilities."
+
+"Note: To preserve the privacy of the juvenile residents, state level cell counts have been rounded to the nearest multiple of three."
+
+"Note: Committed juveniles include those placed in the facility as part of a court ordered disposition. Detained juveniles include those held awaiting a court hearing, adjudication, disposition or placement elsewhere. Diverted juveniles include those voluntarily admitted to the facility in lieu of adjudication as part of a diversion agreement. Totals include juveniles for whom placement status was reported as unknown or "other.""
+
+"Suggested citation: Sickmund, M., Sladky, T.J., Kang, W., and Puzzanchera, C. (2019) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+https://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, 2015,  and 2017 [machine-readable data files]."
