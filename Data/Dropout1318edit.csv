@@ -45,16 +45,9 @@ South Dakota,7.1,6.6,8.1,5.1,5.3,8.1
 Tennessee,6.1,5.6,4.7,4.8,5.3,5.4
 Texas,8.2,7.5,7.1,6.7,6.4,6.0
 Utah,5.2,6.6,6.1,4.7,4.1,3.9
-Vermont,*3.2,*2.7,*1.3,4.5,*7.3,4.1
+Vermont,3.2,2.7,1.3,4.5,7.3,4.1
 Virginia,4.4,4.2,3.5,3.9,3.3,3.4
 Washington,6.5,7.1,5.8,7.5,5.8,6.0
 West Virginia,7.6,6.7,5.1,6.6,4.6,6.4
 Wisconsin,4.9,4.7,4.2,4.7,4.2,4.4
-Wyoming,6.2,4.3,7.3,5.2,*3.7,*2.8
-,,,,,,
-* Interpret data with caution. The coefficient of variation for this estimate is between 30 and 50 percent.,,,,,,
-"Note: This display uses the status dropout rate. Status dropouts are 16- to 24-year-olds who are not enrolled in school and who have not completed a high school program, regardless of when they left school. People who have received equivalency credentials, such as the GED, are counted as high school completers. Data are based on sample surveys of the entire population residing within the United States, including both noninstitutionalized persons (e.g., those living in households, college housing, or military housing located within the United States) and institutionalized persons (e.g., those living in prisons, nursing facilities, or other healthcare facilities).",,,,,,
-,,,,,,
-"Internet citation: OJJDP Statistical Briefing Book. Online. Available: https://www.ojjdp.gov/ojstatbb/population/qa01506.asp?qaDate=2018. Released on  September 21, 2020.",,,,,,
-,,,,,,
-"Data Source: Adapted from U.S. Department of Education, National Center for Education Statistics. Digest of Education Statistics. Table 219.85a. Percentage of high school dropouts among persons 16 to 24 years old (status dropout rate), by race/ethnicity and state. Annual tables available from https://nces.ed.gov/programs/digest/.",,,,,,
+Wyoming,6.2,4.3,7.3,5.2,3.7,2.8
